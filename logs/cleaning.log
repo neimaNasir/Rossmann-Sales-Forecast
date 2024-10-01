@@ -1,0 +1,5 @@
+2024-10-01 23:15:31,677 INFO Training, test, and store data loaded.
+2024-10-01 23:17:00,504 INFO training data merged with store data
+2024-10-01 23:19:01,167 INFO from the merged data  rows with missing values are filled with 0
+2024-10-01 23:19:07,583 INFO from the merged data rows  missing rows that indicate no competion are filled with 0
+2024-10-01 23:19:13,124 INFO  missing values from CompetionDistance coulumns is filled with most frequent value
